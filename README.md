@@ -1,2 +1,2 @@
 # cursor_test
-cursor練習
+This is a test repository
